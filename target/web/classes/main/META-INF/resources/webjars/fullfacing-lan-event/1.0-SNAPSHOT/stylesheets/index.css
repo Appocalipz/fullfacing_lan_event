@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://lh6.googleusercontent.com/LD1R2axIGh2E0MqchtXjqQyaA4M2UQ8utvbabWg99u6mOQRdzf9ilvlF_V2oAa5X3VyNsw");
+  background-size: 100%;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+.content-container {
+  margin-left: 40px;
+  margin-top: 40px;
+  background-color: transparent;
+  position: absolute;
+}
+.content-container-call-of-duty-4 {
+  margin-left: 40px;
+  margin-top: 40px;
+  background-color: transparent;
+  position: absolute;
+  top: 238px;
+}
+/*# sourceMappingURL=index.css.map */
