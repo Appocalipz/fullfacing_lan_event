@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/melcomvaneeden/Desktop/LAN_Site/conf/application.conf,/Users/melcomvaneeden/Desktop/LAN_Site/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/melcomvaneeden/Desktop/LAN_Site/conf/logback.xml,/Users/melcomvaneeden/Desktop/LAN_Site/target/scala-2.11/classes/logback.xml)
+[debug] 	(/Users/melcomvaneeden/Desktop/LAN_Site/conf/routes,/Users/melcomvaneeden/Desktop/LAN_Site/target/scala-2.11/classes/routes)

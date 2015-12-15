@@ -1,0 +1,3 @@
+
+GET         /                                   @controllers.Application.index(payload: Option[String] ?= None)
+GET         /assets/*file                       @controllers.Assets.versioned(path="/public", file: Asset)
